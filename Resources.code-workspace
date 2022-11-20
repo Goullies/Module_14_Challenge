@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Resources",
+			"path": "../Resources"
+		},
+		{
+			"name": "Module_14_Challenge",
+			"path": "."
+		},
+		{
+			"name": "Screenshots",
+			"path": "../Screenshots"
+		}
+	],
+	"settings": {}
+}
