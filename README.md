@@ -45,13 +45,13 @@ I then createe a cumulative return plot that shows the actual returns vs. the st
 
 ![Screenshot9](./Screenshots/Screenshot9.png)
 
-##Tune the Baseline Trading Algorithm
+## Tune the Baseline Trading Algorithm
 
 The second machine learning model was ran using a new LogisticRegression classifier. I useed the original training data as the baseline model and fitted the new classifier. A predictions report was produced.
 
 ![Screenshot10](./Screenshots/Screenshot10.png)
 
-From the above report, it appears that the origina SVC classifier model proved to be the slightly better model although still a poor accuracy in predicting the 'Sell' signals of -1.0.
+From the above report, it appears that the original SVC classifier model proved to be the slightly better model although still a poor accuracy in predicting the 'Sell' signals of -1.0.
 
 I then made a predictions2_df DataFrame;
 
