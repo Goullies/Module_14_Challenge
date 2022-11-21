@@ -16,6 +16,7 @@ I was then able to compare the performance to that of the base line model.
 I imported and reviewed the Pandas DataFrame and reviewed the data.
 
 ![Screenshot3](./Screenshots/Screenshot3.png)
+
 I then calculated Actual Returns and dropped nulls. From this I generated the trading signals using short and long window SMA values. I then used this to generate the sSignal column.
 
 ![Screenshot4](./Screenshots/Screenshot4.png)
@@ -47,7 +48,7 @@ I then createe a cumulative return plot that shows the actual returns vs. the st
 
 ## Tune the Baseline Trading Algorithm
 
-The second machine learning model was ran using a new LogisticRegression classifier. I useed the original training data as the baseline model and fitted the new classifier. A predictions report was produced.
+The second machine learning model was ran using a new LogisticRegression classifier. I used the original training data as the baseline model and fitted the new classifier. A predictions report was produced.
 
 ![Screenshot10](./Screenshots/Screenshot10.png)
 
